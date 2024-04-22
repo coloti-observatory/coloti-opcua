@@ -11,7 +11,6 @@ import coloti.opcua.server.UaServer;
  * Hello world!
  *
  */
-// prova
 public class App 
 {
     private static final Logger logger = LoggerFactory.getLogger(App.class);
